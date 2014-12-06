@@ -1,5 +1,4 @@
 ## nodejs-app-stack
-================
 
 Complete source code from the book 
 
@@ -10,7 +9,6 @@ A comprehensive Node.js tutorial
 *Manuel Kiessling*
 
 ## dependencies
-================
 
 * formidable // file upload
 * fs // file read
