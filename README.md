@@ -1,8 +1,18 @@
-nodejs-app-stack
+## nodejs-app-stack
 ================
 
-nodejs beginner application stack
+Complete source code from the book 
 
-dependencies
-  formidable //file upload parser
+**The Node Beginner Book**
+
+A comprehensive Node.js tutorial
+
+*Manuel Kiessling*
+
+## dependencies
+================
+
+* formidable // file upload
+* fs // file read
+* querystring //file parser
   
